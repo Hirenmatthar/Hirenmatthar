@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiren</h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
-- 🌱 I’m currently learning **Android Studio with Flutter in my internship which is for 30 days.**
+- 🌱 I’m currently sharpening my skills into **Data Structures and Algorithms**
 
 - 📫 How to reach me **hirebmatthar007@gmail.com**
 
